@@ -20,7 +20,7 @@ Ce projet a été réalisé en binôme et nous a permis d'explorer plusieurs con
 ## 🚫 Limitation du téléchargement  
 Malheureusement, en raison de la taille du projet, je ne peux pas le téléverser directement ici. Cependant :  
 - 📸 **Vous trouverez des captures d’écran** illustrant les différentes fonctionnalités du jeu.  
-- 🔗 **[Lien vers le projet complet](#)** (je mettrai le lien dès qu'il sera disponible)  
+- 🔗 **[Lien vers le projet complet](https://drive.google.com/drive/folders/1rs8QpzOAT_tmCctLZmLM04mC4YDBcoxl?usp=sharing)**
 - ⚙️ **Un exécutable sera également ajouté** pour ceux qui souhaitent tester le jeu directement.  
 
 Merci de votre compréhension et bonne exploration ! 🚀  
