@@ -1,7 +1,5 @@
 # Forbidden Desert Projet POGL 2022/2023
 
-# Forbidden Desert - Board Game (Object-Oriented Programming Project)
-
 ## 🎲 Introduction  
 **Forbidden Desert** est un jeu de société coopératif créé par **Matt Leacock**, également connu pour des classiques comme *Pandemic*. Dans ce jeu, les joueurs incarnent des aventuriers coincés dans un désert impitoyable. Leur mission est de retrouver les pièces d'un vaisseau légendaire enfoui sous les dunes tout en luttant contre la chaleur écrasante et les tempêtes de sable.
 
